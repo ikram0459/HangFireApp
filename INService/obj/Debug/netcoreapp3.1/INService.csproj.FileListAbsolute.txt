@@ -1,0 +1,8 @@
+C:\Esw-Development\INapps\HangFireEventQueueApp\INService\bin\Debug\netcoreapp3.1\INService.deps.json
+C:\Esw-Development\INapps\HangFireEventQueueApp\INService\bin\Debug\netcoreapp3.1\INService.dll
+C:\Esw-Development\INapps\HangFireEventQueueApp\INService\bin\Debug\netcoreapp3.1\INService.pdb
+C:\Esw-Development\INapps\HangFireEventQueueApp\INService\obj\Debug\netcoreapp3.1\INService.AssemblyInfoInputs.cache
+C:\Esw-Development\INapps\HangFireEventQueueApp\INService\obj\Debug\netcoreapp3.1\INService.AssemblyInfo.cs
+C:\Esw-Development\INapps\HangFireEventQueueApp\INService\obj\Debug\netcoreapp3.1\INService.csproj.CoreCompileInputs.cache
+C:\Esw-Development\INapps\HangFireEventQueueApp\INService\obj\Debug\netcoreapp3.1\INService.dll
+C:\Esw-Development\INapps\HangFireEventQueueApp\INService\obj\Debug\netcoreapp3.1\INService.pdb
